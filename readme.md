@@ -1,10 +1,10 @@
 # My Portfolio
 ## Welcome to my Webpage and Portfolio
 
-<img src= "" width='320'/>
+<img src= "IMG_5972" width='320'/>
 
 I'm an Audio Engineer currently enrolled in MIT xPRO: Professional Certificate in Coding with MERN.
-Currently 
+Currently learning Full Stack Development, here you will find some of my class projects as well as info about me. 
 
 ---
 MIT License
