@@ -1,9 +1,10 @@
 # My Portfolio
-## Welcome to my webpage and portfolio
+## Welcome to my Webpage and Portfolio
 
 <img src= "" width='320'/>
 
-Description
+I'm an Audio Engineer currently enrolled in MIT xPRO: Professional Certificate in Coding with MERN.
+Currently 
 
 ---
 MIT License
